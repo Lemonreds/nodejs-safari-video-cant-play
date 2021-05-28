@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "./node_modules/.bin/ nodemon app.js"
+    "start": "./node_modules/.bin/ nodemon app.js",
+    "start2": "./node_modules/.bin/ nodemon base.app.js"
   },
   "author": "",
   "license": "MIT",
